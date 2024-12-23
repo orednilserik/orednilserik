@@ -11,7 +11,7 @@ Connect with me via LinkedIn in my profile!
 - **Languages**: R, Python, SQL, PySpark, SAS, STAN
 - **R libraries**: plotly, shiny, ggplot2, caret, keras, dplyr, tidyr
 - **Python libraries**: PyTorch, scikit-learn, TensorFlow, matplotlib, pandas, numpy, SciPy
-- **Tools**: Git, BigQuery, Jupyter Notebook, PowerBI
+- **Tools**: Git, BigQuery, Jupyter Notebook, PowerBI, LaTeX
 
 ### Education
 - MSc in Statistics and Machine Learning, Linköping University 2025
