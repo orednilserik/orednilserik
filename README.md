@@ -1,17 +1,9 @@
-## Hi there 👋
-
-### My name is Mikael and I'm in my final year of the MS.c Statistics and Machine Learning program at Linköping University
+## About me
 - Intrigued by everything data, statistics, and machine learning
 - Particularly interested in probabilistic machine learning, bayesian statistics and generative AI
 - Will be writing my master's thesis during spring 2025 on attention-based multimodal deep learning for fusion of X-ray images and tabular data
 
 Connect with me via LinkedIn in my profile!
-
-### Technical Skills
-- **Languages**: R, Python, SQL, PySpark, SAS, STAN
-- **R libraries**: plotly, shiny, ggplot2, caret, keras, dplyr, tidyr
-- **Python libraries**: PyTorch, scikit-learn, TensorFlow, matplotlib, pandas, numpy, SciPy
-- **Tools**: Git, BigQuery, Jupyter Notebook, PowerBI, Markdown & LaTeX
 
 ### Education
 - MSc in Statistics and Machine Learning, Linköping University 2025
