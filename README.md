@@ -1,6 +1,5 @@
 ## About me
-- Intrigued by everything data, statistics, and machine learning
-- Particularly interested in probabilistic machine learning, bayesian statistics and generative AI
+- Particularly interested in probabilistic machine learning, bayesian statistics and deep learning
 - Will be writing my master's thesis during spring 2025 on attention-based multimodal deep learning for fusion of X-ray images and tabular data
 
 Connect with me via LinkedIn in my profile!
