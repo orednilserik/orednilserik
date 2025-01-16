@@ -1,6 +1,6 @@
 ## About me
 - Particularly interested in probabilistic machine learning, time series forecasting and deep learning
-- Will be writing my master's thesis during spring 2025 on attention-based multimodal deep learning for intermediate fusion of X-ray images and tabular data
+- Will be writing my master's thesis during spring 2025 on attention-based multimodal deep learning for fusion of X-ray images and tabular data
 
 Connect with me via LinkedIn in my profile!
 
