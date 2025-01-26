@@ -1,6 +1,6 @@
 ## About me
 - Particularly interested in probabilistic machine learning, time series forecasting and deep learning
-- Will be writing my master's thesis during spring 2025 on attention-based multimodal fusion of X-ray images and tabular data for classification of femur fractures
+- Will be writing my master's thesis during spring 2025 on attention-based multimodal fusion of X-ray images and tabular data for image classification
 
 Connect with me via LinkedIn in my profile!
 
