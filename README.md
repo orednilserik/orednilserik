@@ -10,3 +10,4 @@ Connect with me via LinkedIn in my profile!
 
 #### Bachelor's thesis
 Analyzed the impact of digital marketing spend across multiple channels through mix marketing modeling on new customer acquisition for a fintech company. Built and compared XGBoost models with various transformations to capture carryover effects and seasonal patterns. Used SHAP values to interpret non-linear relationships and provided recommendations for optimal marketing budget allocation across channels.
+[Download and read the thesis here (in swedish)](https://github.com/Johhed15/Bachelor-Thesis/blob/main/KANDIDAT.pdf)
