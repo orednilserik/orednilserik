@@ -1,6 +1,7 @@
 ## About me
 - Based in Stockholm
-- Particularly interested in probabilistic machine learning, time series forecasting and deep learning
+- Background in statistics and machine learning
+- Currently working with logistics network optimization at H&M Group
 
 Connect with me via LinkedIn in my profile!
 
