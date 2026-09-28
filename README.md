@@ -1,7 +1,7 @@
 ## About me
 - Based in Stockholm
 - Background in statistics and machine learning
-- Currently working with logistics network optimization at H&M Group
+- Currently working with supply chain network design at H&M Group
 
 Connect with me via LinkedIn in my profile!
 
